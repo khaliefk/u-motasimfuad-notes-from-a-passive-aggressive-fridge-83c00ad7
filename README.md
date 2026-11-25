@@ -8,7 +8,7 @@ One funny passive-aggressive note a smart fridge leaves for its owner, written f
 
 ## The note
 
-> The yogurt expired Tuesday. I kept it cold anyway, out of loyalty. You threw it out and called it spring cleaning. Noted.
+> Inventory check: your yogurt expired Tuesday. I kept it cold for nine days anyway. You binned it, called it spring cleaning, and blamed the smell on me. Noted.
 
 ## How it works
 

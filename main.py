@@ -4,7 +4,7 @@
 import os
 from pathlib import Path
 
-ENTRY = "The yogurt expired Tuesday. I kept it cold anyway, out of loyalty. You threw it out and called it spring cleaning. Noted."
+ENTRY = "Inventory check: your yogurt expired Tuesday. I kept it cold for nine days anyway. You binned it, called it spring cleaning, and blamed the smell on me. Noted."
 
 
 def main() -> None:
